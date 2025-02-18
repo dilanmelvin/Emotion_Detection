@@ -1,0 +1,7 @@
+pytest-cov==4.1.0
+mtcnn==0.1.1
+dlib==19.24.2
+numpy==1.26.4
+opencv-python==4.10.0.84
+tensorflow==2.16.1
+Pillow==10.3.0
