@@ -3,7 +3,7 @@
 ## Prerequisites
 
 Ensure you have the following installed:
-- Python (>=3.8)
+- Python (>=3.10)
 - pip (latest version recommended)
 - Virtual environment (optional but recommended)
 
